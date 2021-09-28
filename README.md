@@ -11,3 +11,7 @@
 ### General XCC Links
 - [ ] [Manik Verma Website](http://manikvarma.org/)
 - [ ] [ICML 2020 XCC Learning](https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5719)
+- [ ] [XML GitHub](https://github.com/Extreme-classification)
+
+### NeurIPS
+- [ ] [Writing](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles)
