@@ -15,3 +15,10 @@
 
 ### NeurIPS
 - [ ] [Writing](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles)
+
+
+Task 1: Real data parsing, Synth data generation, tf.Data pipeline setup
+Task 2: Classical vs Neural approaches comparison on real life data
+Task 3: Checking fitment of neural network on synthetic data
+Task 4: Intensity-based vs Intensity free learning
+Task 5: GAN based model (Point vs Sequence prediction)
